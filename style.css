@@ -47,7 +47,9 @@ body {
 
 	
 }
-
+.fcc {
+	color: lightgreen;
+}
 #logo {
 	padding: 7px 0 10px 15px;
 	color:#FFFF66;
@@ -66,6 +68,9 @@ body {
 	
 	
 
+}
+#about {
+	color: #FFFF99;
 }
 #header-options a {
 	color: #9999ff;
